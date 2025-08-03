@@ -17,13 +17,13 @@ A secure, LangChain-based Python package for enterprise-grade Generative AI and 
 Install the package from GitHub using `pip`:
 
 ```bash
-pip install git+https://github.com/yourusername/genai_toolkit.git
+pip install git+https://github.com/anikepati/genai_toolkit.git
 ```
 
 For private repositories, use a GitHub Personal Access Token (PAT) with `repo` scope:
 
 ```bash
-pip install git+https://<USERNAME>:<PERSONAL_ACCESS_TOKEN>@github.com/yourusername/genai_toolkit.git
+pip install git+https://<USERNAME>:<PERSONAL_ACCESS_TOKEN>@github.com/anikepati/genai_toolkit.git
 ```
 
 ## Setup

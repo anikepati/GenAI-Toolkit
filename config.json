@@ -1,0 +1,14 @@
+{
+    "openai": {
+        "encrypted_key": "your-encrypted-openai-key-hex",
+        "nonce": "your-nonce-hex"
+    },
+    "google": {
+        "encrypted_key": "your-encrypted-google-key-hex",
+        "nonce": "your-nonce-hex"
+    },
+    "huggingface": {
+        "encrypted_key": "your-encrypted-huggingface-key-hex",
+        "nonce": "your-nonce-hex"
+    }
+}

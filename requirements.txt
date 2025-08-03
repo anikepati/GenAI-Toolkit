@@ -1,0 +1,9 @@
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-google-genai>=1.0.10
+langchain-huggingface>=0.3.0
+redis>=5.0.8
+nltk>=3.8.1
+rouge-score>=0.1.2
+numpy>=1.26.4
+cryptography>=43.0.1
